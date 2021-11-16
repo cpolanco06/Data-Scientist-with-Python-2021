@@ -1,0 +1,5 @@
+repo,gh owner,language,stars,commits
+0,pandas,pandas-dev,python,17800,133
+1,dplyr,tidyverse,R,2800,52
+2,ggplot2,tidyverse,R,3500,59
+3,plotnine,has2k1,python,1450,38

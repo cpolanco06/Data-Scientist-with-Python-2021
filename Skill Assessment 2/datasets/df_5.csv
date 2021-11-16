@@ -1,0 +1,4 @@
+customer_id,customer_firstname,customer_lastname,customer_email
+0,20,Jane,Yellow,jane@datacamp.com
+1,21,John,Blue,john@datacamp.com
+2,23,Joe,Green,joe@datacamp.com

@@ -1,0 +1,7 @@
+id,style,type,country,price,rating, number_sold
+65,malbec,red,argentina,19.04,4.2,22
+31,alvarinho,white,portugal,18.99,4.2,13
+69,riesling,white,germany,16.95,4,6
+97,pinot noir,red,germany,,4.0,17
+68,primitivo,red,italy,17.99,4.2,19
+76,valpolicella,red,italy,19.39,4.2,6
